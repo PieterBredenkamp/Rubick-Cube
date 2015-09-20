@@ -1,0 +1,11 @@
+This file will be used to communicate what we are currently working on and what we still need to accomplish.
+
+Feel free to edit your sections as necessary.
+
+Luke:
+
+I am currently working on the Create event and Event Management activities, now that I finally figured out how all of this works :D
+
+Pieter:
+
+Louw:
