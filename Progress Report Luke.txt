@@ -1,0 +1,5 @@
+Ok so most of my work this weekend was spent trying to figure out Git and Android stuffs. Very tedious and annoying as you probably already know. 
+Therefore I haven't gotten as far as I would have liked with my Activities but I will still be working on em for the next couple of days as well.
+So far I have the basic look and feel of the View/Creat events page with no funtionality as of yet.
+
+P.S. Git's a pain....
