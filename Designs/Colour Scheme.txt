@@ -1,0 +1,4 @@
+Dark Blue - 0 0 255
+Light Blue - 190 190 255
+Complement 1 - 255 209 0
+Complement 2 -178 146 0
