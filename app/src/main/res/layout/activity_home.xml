@@ -70,7 +70,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="140dp"
-        android:textColor="#1444cc"
+        android:textColor="#00647f"
         android:layout_marginLeft="15dp" />
 
     <TextView
@@ -83,6 +83,6 @@
         android:layout_alignLeft="@+id/textView2"
         android:layout_alignStart="@+id/textView2"
         android:textSize="110dp"
-        android:textColor="#1444cc"
+        android:textColor="#003240"
         android:layout_marginLeft="110dp" />
 </RelativeLayout>
