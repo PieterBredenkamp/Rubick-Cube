@@ -4,13 +4,13 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    android:background="#0000ff" tools:context=".CreateEvent">
+    android:background="#1444cc" tools:context=".CreateEvent">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/shape"
-        android:text="@string/New_Event"
+        android:text="New Task"
         android:id="@+id/button"
         android:clickable="true"
         android:contextClickable="false"
@@ -23,7 +23,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="420dp"
-        android:background="#bebeff"
+        android:background="#00c8ff"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_alignTop="@+id/textView">
@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/Header_Event"
+        android:text="To-Do List:"
         android:background="@drawable/shape_2"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
